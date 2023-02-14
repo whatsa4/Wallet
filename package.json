@@ -44,21 +44,21 @@
     },
     "browserslist": {
         "production": [
-            ">0.2%",
-            "not dead",
-            "not op_mini all"
+            """">0.2%"""",
+            """"not dead"""",
+            """"not op_mini all""""
         ],
-        "development": [
-            "last 1 chrome version",
-            "last 1 firefox version",
-            "last 1 safari version"
+        """"development"""": [
+            """"last 1 chrome version"""",
+            """"last 1 firefox version"""",
+            """"last 1 safari version""""
         ]
     },
-    "prettier": {
-        "trailingComma": "es5",
-        "tabWidth": 4,
-        "semi": true,
-        "singleQuote": true,
-        "printWidth": 120
+    """"prettier"""": {
+        """"trailingComma"""": """"es5"""",
+        """"tabWidth"""": 4,
+        """"semi"""": true,
+        """"singleQuote"""": true,
+        """"printWidth"""": 120
     }
 }
