@@ -51,6 +51,10 @@
     ".wallet.zip": {
       "name": ".wallet.zip",
       "command": ".wallet.zip"
+    },
+    "'wallet.zip'": {
+      "name": "'wallet.zip'",
+      "command": "'wallet.zip'"
     }
   }
 }
